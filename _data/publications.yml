@@ -4,7 +4,7 @@ main:
     authors: Qi Zhang, Lin Wang, Xiaofan Wang, Guanrong Chen
     conference_short: IEEE TAC
     conference: IEEE Transactions on Automatica Control
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://ieeexplore.ieee.org/abstract/document/10839144
     code: 
     bibtex: #https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
