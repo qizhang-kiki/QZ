@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a><autocolor>IEEE Conference on Decision and Control (CDC) </autocolor></a></li>
-  <li><a><autocolor>International Federation of Automatic Control (IFAC)</autocolor></a></li>
+  <li><a><autocolor>IFAC World Congress</autocolor></a></li>
   <li><a><autocolor>Chinese Control Conference</autocolor></a></li>
   <li><a><autocolor>Asian Control Conference</autocolor></a></li>
 </ul>
