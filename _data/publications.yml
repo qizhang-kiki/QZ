@@ -2,12 +2,12 @@ main:
 
   - title: Optimal Timing Selection in Opinion Dynamics
     authors: Qi Zhang, Lin Wang, Xiaofan Wang, Guanrong Chen
-    conference_short: 
+    conference_short: IEEE TAC
     conference: IEEE Transactions on Automatica Control
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: 
     bibtex: #https://bib.yliu.me/MICCAI23.txt
-    image: #./assets/img/teaser_example_2.png
+    image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
